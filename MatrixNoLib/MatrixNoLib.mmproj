@@ -1,0 +1,12 @@
+<mm_project serial_port="COM3" board="Arduino Uno" programmer="" includePaths="" libPaths="" libs="" default="yes" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+  <files>
+    <file name="MatrixNoLib_main.cpp" open="yes" />
+    <file name="matrixnolib_main.h" open="yes" />
+    <file name="font.h" open="yes" />
+  </files>
+  <extras>
+  </extras>
+  <externals>
+    <external name="C:\Program Files (x86)\Arduino\libraries\SPI\SPI.cpp" />
+  </externals>
+</mm_project>

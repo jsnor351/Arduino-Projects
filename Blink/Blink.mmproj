@@ -1,7 +1,7 @@
-<mm_project serial_port="COM3" board="Arduino Uno" programmer="" includePaths="" libPaths="" libs="" default="yes" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+<mm_project serial_port="COM3" board="Arduino Uno" programmer="" includePaths="" libPaths="" libs="" default="no" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
   <files>
-    <file name="blink_main.h" open="yes" />
-    <file name="Blink_main.cpp" open="yes" />
+    <file name="blink_main.h" open="no" />
+    <file name="Blink_main.cpp" open="no" />
   </files>
   <extras>
   </extras>
