@@ -9,7 +9,7 @@ Nick Gammon>
 
 #include "MatrixNoLib_main.h"
 #include "SPI.h"
-#include "avr/pgmspace.h"
+//#include "avr/pgmspace.h"
 #include "font.h"
 
 //const byte SS = 10;  // omit this line for Arduino 1.0 onwards
