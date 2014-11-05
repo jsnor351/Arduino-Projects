@@ -1,8 +1,8 @@
-<mm_project serial_port="COM3" board="Arduino Uno" programmer="" includePaths="" libPaths="" libs="" default="yes" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+<mm_project serial_port="COM3" board="Arduino Duemilanove w/ ATmega328" programmer="" includePaths="" libPaths="" libs="" default="no" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
   <files>
-    <file name="MatrixNoLib_main.cpp" open="yes" />
-    <file name="matrixnolib_main.h" open="yes" />
-    <file name="font.h" open="yes" />
+    <file name="MatrixNoLib_main.cpp" open="no" />
+    <file name="matrixnolib_main.h" open="no" />
+    <file name="font.h" open="no" />
   </files>
   <extras>
   </extras>
